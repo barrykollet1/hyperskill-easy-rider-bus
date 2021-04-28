@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    import re
+
+    path = 'C:\tasks\Hyperskill\new'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9760#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 02 Mar 2021 22:43:14 UTC
+record: -1

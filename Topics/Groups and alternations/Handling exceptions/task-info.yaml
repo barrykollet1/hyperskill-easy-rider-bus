@@ -1,0 +1,19 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    import re
+
+
+    # put your regex in the variable template
+    template = ""
+    string = input()
+    # compare the string and the template
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12684#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 26 Apr 2021 19:06:17 UTC
+record: -1
